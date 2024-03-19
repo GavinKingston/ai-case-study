@@ -14,7 +14,9 @@
 
 * **How is the company funded? How much funding have they received?**
 
-  *The company is well funded, including a $21 million Series A led by Founders Fund. Sourced from their about us page on their website [here](https://www.cognition-labs.com/introducing-devin)*
+  >*"The company is well funded, including a $21 million Series A led by Founders Fund."*
+  
+  Sourced from the cognition "about us" page on their website [here](https://www.cognition-labs.com/introducing-devin)
 
 ## Business Activities
 
@@ -87,6 +89,11 @@
 
 * How is your company performing relative to competitors in the same field?
   Cognition is doing very well with the consideration of how recent they started the company. They have already gotten recognition in bloomberg articles, which can be found [here](https://www.bloomberg.com/news/articles/2024-03-12/cognition-ai-is-a-peter-thiel-backed-coding-assistant)
+
+
+## Recommendations
+
+* 
 
 ## Sources Used
 
