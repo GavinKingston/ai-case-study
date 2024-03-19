@@ -88,3 +88,9 @@
 * How is your company performing relative to competitors in the same field?
   Cognition is doing very well with the consideration of how recent they started the company. They have already gotten recognition in bloomberg articles, which can be found [here](https://www.bloomberg.com/news/articles/2024-03-12/cognition-ai-is-a-peter-thiel-backed-coding-assistant)
 
+## Sources Used
+
+* [Cognition Website](https://www.cognition-labs.com/)
+* [Bloomberg Article](https://www.bloomberg.com/news/articles/2024-03-12/cognition-ai-is-a-peter-thiel-backed-coding-assistant)
+* [Cognition Twitter Account](https://twitter.com/cognition_labs)
+* [Whois Domain Registry Lookup](https://www.whois.com/whois/cognition-labs.com)
