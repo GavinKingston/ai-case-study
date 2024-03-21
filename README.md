@@ -115,9 +115,26 @@
 
 * **What technologies would this additional product or service utilize?**
 
-  The technologies that this additional product would utilize is a seperate AI model that is build around security pentesting, This AI model could utilize the various tools used within pentests such as metasploit and burp suite. Along with many others. The security AI model could then be used for future audits to speed up the process of auditing other built software, in addition to more manual in depth testing.   
+  The technologies that this additional product could utilize is a seperate AI model that is built around security pentesting, This AI model could utilize the various tools used within pentests such as the following.
+  
+    * Metasploit
+    * Burp Suite
+    * Nmap
+    * Wireshark
+    * OWASP ZAP (Ze Attack Proxy)
+    * SQLMap
+    * Nessus
+    * OpenVas
+    * John the Ripper
+    * Hashcat
+    * MobSF
+    * Many others are out there that could be added to this list
 
-* Why are these technologies appropriate for your solution?
+  The security AI model could then be used for future audits to speed up the process of auditing other built software, in addition to more manual in depth testing.   
+
+* **Why are these technologies appropriate for your solution?**
+
+  * The techologies specified are appropriate for the solution because they are already existing, well built tools for pentesting software and networks for various vulnerabilities. They would help expedite the process of finding vulnerabilities through through out the code that the Devin AI software produces. 
 
 ## Sources Used
 
@@ -125,3 +142,4 @@
 * [Bloomberg Article](https://www.bloomberg.com/news/articles/2024-03-12/cognition-ai-is-a-peter-thiel-backed-coding-assistant)
 * [Cognition Twitter Account](https://twitter.com/cognition_labs)
 * [Whois Domain Registry Lookup](https://www.whois.com/whois/cognition-labs.com)
+* [ChatGPT](https://chat.openai.com) to find various vulnerability software testing tools
