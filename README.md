@@ -77,17 +77,17 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* **What has been the business impact of this company so far?**
 
   *This new AI software is still in the testing phases, and has not likely been adopted into many businesses, however this is a very good proof of concept that could potentially replace development teams, or at least drastically reduce the necessary team size.*
 
-* What are some of the core metrics that companies in this field use to measure success? 
+* **What are some of the core metrics that companies in this field use to measure success?**
   * speed
   * accuracy
   * capabilities
   * accessibility
 
-* How is your company performing relative to competitors in the same field?
+* **How is your company performing relative to competitors in the same field?**
   Cognition is doing very well with the consideration of how recent they started the company. They have already gotten recognition in bloomberg articles, which can be found [here](https://www.bloomberg.com/news/articles/2024-03-12/cognition-ai-is-a-peter-thiel-backed-coding-assistant)
 
 
@@ -97,7 +97,7 @@
 
   * A couple options that I would suggest that the company offer to its clients, would be a few different packages. One would be the package they currently are already offering, which is the ability to develop a software from start to finish, but another product that could be beneficial to offer is a security auditing service either driven by AI or a team that manually audits the software the had been built by the AI software. 
 
-  With AI building a software from start to finish. The code that it writes could easily be mistakenly written by the AI in a way that could be vulnerable to security holes, such as the following common vulnerabilities listed below
+    With AI building a software from start to finish. The code that it writes could easily be mistakenly written by the AI in a way that could be vulnerable to security holes, such as the following common vulnerabilities listed below
   
    * Cross Site Scripting (XSS)
    * Server Side Request Forgery (SSRF) 
@@ -134,7 +134,7 @@
 
 * **Why are these technologies appropriate for your solution?**
 
-  * The techologies specified are appropriate for the solution because they are already existing, well built tools for pentesting software and networks for various vulnerabilities. They would help expedite the process of finding vulnerabilities through through out the code that the Devin AI software produces. 
+  The techologies specified are appropriate for the solution because they are already existing, well built tools for pentesting software and networks for various vulnerabilities. They would help expedite the process of finding vulnerabilities through through out the code that the Devin AI software produces. 
 
 ## Sources Used
 
