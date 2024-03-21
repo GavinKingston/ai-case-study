@@ -29,7 +29,7 @@
   
   The intended customer is businesses that want to avoid paying the full cost of a development team, in addition to developers using it to help make their jobs easier by cutting out a lot of the manual programming required in getting the initial minimum viable product built. In the beginning stages of the Devin software. There will likely still be some manual tweaks and adjustements to the code provided by the "Devin" AI software. 
 
-  The Market for this is ginormeous, it is hard to put a number on the market size, because ability can be used for all different kinds of use cases, and industries.  
+  The Market for this is very large, it is hard to put a number on the market size, because ability can be used for all different kinds of use cases, and industries.  
 
 * **What solution does this company offer that their competitors do not or cannot offer?**
 
