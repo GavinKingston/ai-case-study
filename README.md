@@ -95,7 +95,7 @@
 
 * **If you were to advise the company, what products or services would you suggest they offer?**
 
-  * A couple options that I would suggest that the company offer to its clients, would be a few different packages. One would be the package they currently are already offering, which is the ability to develop a software from start to finish, but another product that could be beneficial to offer is a security auditing service either driven by AI or a team that manually audits the software the had been built by the AI software. 
+  A couple options that I would suggest that the company offer to its clients, would be a few different packages. One would be the package they currently are already offering, which is the ability to develop a software from start to finish, but another product that could be beneficial to offer is a security auditing service either driven by AI or a team that manually audits the software the had been built by the AI software. 
 
     With AI building a software from start to finish. The code that it writes could easily be mistakenly written by the AI in a way that could be vulnerable to security holes, such as the following common vulnerabilities listed below
   
