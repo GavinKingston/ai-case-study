@@ -2,7 +2,7 @@
 
 ## The AI company (Cognition)
 
-** *Credit goes to **Jake Backues** for introducing this AI Company to the University of Utah AI Bootcamp Class.*
+** *Credit goes to **Jake Backues** for introducing this AI company to the University of Utah AI Bootcamp Class.*
 
 * **Name of company:** *Cognition*
 
@@ -10,13 +10,13 @@
 
 * **When was the company incorporated?** 
 
-  *Based on the "whois" domain registry data. The [cognition-labs.com](https://cognition-labs.com) domain was registered on January 11, 2024. The [twitter](https://twitter.com/cognition_labs) account was created in January 2024. With this data, it is assumed that the company was launched in January of 2024.*
+  *Based on the "whois" domain registry data, the [cognition-labs.com](https://cognition-labs.com) domain was registered on January 11, 2024. The [twitter](https://twitter.com/cognition_labs) account was created in January 2024. With this data, it is assumed that the company was launched in January of 2024.*
 
 * **How is the company funded? How much funding have they received?**
 
   >*"The company is well funded, including a $21 million Series A led by Founders Fund."*
   
-  *Sourced from the cognition "about us" page on their website [here](https://www.cognition-labs.com/introducing-devin)*
+  *This information was obtained from the cognition "about us" page on their website [here](https://www.cognition-labs.com/introducing-devin)*
 
 ## Business Activities
 
@@ -27,9 +27,9 @@
 
 * **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
   
-  The intended customer is businesses that want to avoid paying the full cost of a development team, in addition to developers using it to help make their jobs easier by cutting out a lot of the manual programming required in getting the initial minimum viable product built. In the beginning stages of the Devin software. There will likely still be some manual tweaks and adjustements to the code provided by the "Devin" AI software. 
+  The intended customer is businesses that want to avoid paying the full cost of a development team, in addition to developers using it to help make their jobs easier by cutting out a lot of the manual programming required in getting the initial minimum viable product built. In the beginning stages of the Devin software. There will likely still be some manual tweaks and adjustments to the code provided by the "Devin" AI software. 
 
-  The Market for this is very large, it is hard to put a number on the market size, because ability can be used for all different kinds of use cases, and industries.  
+  The market for this project is very large. It is hard to put a number on the market size because the ability can be used for all different kinds of use cases and industries.  
 
 * **What solution does this company offer that their competitors do not or cannot offer?**
 
@@ -47,7 +47,7 @@
   | Ubuntu | Backend Operating system | 
   | Docker | Run Containers to accomplish various tasks |
   
-  There are many more technologies involved with this project. I will continue to add to this list as I see more technologies used. 
+  There are many more technologies involved with this project. This list will continue to be updated as more technologies are identified. 
 
 
 ## Landscape
@@ -70,8 +70,8 @@
     * code generation 
 
 * **What are the other major companies in this field?**
-  * OpenAI (ChatGPT) - Can generate code, images, debug error messages, and answering various questions. 
-  * GitHub (CoPilot) - Can generate code on the fly within a code editor
+  * OpenAI (ChatGPT) - can generate code, images, debug error messages, and answer various questions. 
+  * GitHub (CoPilot) - can generate code on the fly within a code editor
   * Google (Bard) - competitor to OpenAI, same use cases.
   *  Microsoft (Bing) - competitor to OpenAI, same use cases. 
 
@@ -134,7 +134,7 @@
 
 * **Why are these technologies appropriate for your solution?**
 
-  The techologies specified are appropriate for the solution because they are already existing, well built tools for pentesting software and networks for various vulnerabilities. They would help expedite the process of finding vulnerabilities through through out the code that the Devin AI software produces. 
+  The technologies specified are appropriate for the solution because they are already existing, well built tools for pentesting software and networks for various vulnerabilities. They would help expedite the process of finding vulnerabilities throughout the code that the Devin AI software produces. 
 
 ## Sources Used
 
