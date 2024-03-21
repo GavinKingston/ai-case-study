@@ -99,13 +99,13 @@
 
     With AI building a software from start to finish. The code that it writes could easily be mistakenly written by the AI in a way that could be vulnerable to security holes, such as the following common vulnerabilities listed below
   
-   * Cross Site Scripting (XSS)
-   * Server Side Request Forgery (SSRF) 
-   * Cross Site Request Forgery (CSRF)
-   * SQL Injection
-   * Brute Force Attacks
-   * Command Injection
-   * Directory Traversal / Path Traversal
+    * Cross Site Scripting (XSS)
+    * Server Side Request Forgery (SSRF) 
+    * Cross Site Request Forgery (CSRF)
+    * SQL Injection
+    * Brute Force Attacks
+    * Command Injection
+    * Directory Traversal / Path Traversal
 
 * **Why do you think that offering this product or service would benefit the company?**
 
