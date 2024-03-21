@@ -66,7 +66,7 @@
     * video generation 
     * audio generation 
     * image recognition 
-    * voice recodition
+    * voice recognition
     * code generation 
 
 * **What are the other major companies in this field?**
@@ -93,7 +93,31 @@
 
 ## Recommendations
 
-* 
+* **If you were to advise the company, what products or services would you suggest they offer?**
+
+  * A couple options that I would suggest that the company offer to its clients, would be a few different packages. One would be the package they currently are already offering, which is the ability to develop a software from start to finish, but another product that could be beneficial to offer is a security auditing service either driven by AI or a team that manually audits the software the had been built by the AI software. 
+
+  With AI building a software from start to finish. The code that it writes could easily be mistakenly written by the AI in a way that could be vulnerable to security holes, such as the following common vulnerabilities listed below
+  
+   * Cross Site Scripting (XSS)
+   * Server Side Request Forgery (SSRF) 
+   * Cross Site Request Forgery (CSRF)
+   * SQL Injection
+   * Brute Force Attacks
+   * Command Injection
+   * Directory Traversal / Path Traversal
+
+* **Why do you think that offering this product or service would benefit the company?**
+
+  * Offering this as an additional service would help to ensure that there is less risk of legal problems, if a company were to ever get compromised due to the software written by the AI being open to security holes. The responsibility and risk would land on the end user if they were to not purchase the additional security auditing service. 
+
+  * The work put into manual auditing of the application security for the ones that do purchase the additional security auditing services, could then be implemented into the AI to help improve the security within the code that the AI produces. If any vulnerabilities are found in the code. The AI can be trained to no longer produce that vulnerable code moving forward.
+
+* **What technologies would this additional product or service utilize?**
+
+  The technologies that this additional product would utilize is a seperate AI model that is build around security pentesting, This AI model could utilize the various tools used within pentests such as metasploit and burp suite. Along with many others. The security AI model could then be used for future audits to speed up the process of auditing other built software, in addition to more manual in depth testing.   
+
+* Why are these technologies appropriate for your solution?
 
 ## Sources Used
 
