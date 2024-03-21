@@ -16,13 +16,13 @@
 
   >*"The company is well funded, including a $21 million Series A led by Founders Fund."*
   
-  Sourced from the cognition "about us" page on their website [here](https://www.cognition-labs.com/introducing-devin)
+  *Sourced from the cognition "about us" page on their website [here](https://www.cognition-labs.com/introducing-devin)*
 
 ## Business Activities
 
 * **What specific problem is the company or project trying to solve?**
  
-  *Giving a user the ability to provide a description of a software to build into the AI, then having the AI build the software from start to finish*
+  Giving a user the ability to provide a description of a software to build into the AI, then having the AI build the software from start to finish
 
 
 * **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
@@ -128,7 +128,7 @@
     * John the Ripper
     * Hashcat
     * MobSF
-    * Many others are out there that could be added to this list
+    * There are many other tools out there, that could be added to this list
 
   The security AI model could then be used for future audits to speed up the process of auditing other built software, in addition to more manual in depth testing.   
 
