@@ -40,7 +40,7 @@
   | **Technologies** | **Use-Case** |
   | :---: | :---: |
   | Code Editor |  Writing and editing the code for the software |
-  | Command Line | Running commands to communicate with API's and run various commands |
+  | Command Line | Running commands to communicate with API's and accomplish various tasks |
   | Web Browser | Pull up API documentation to learn from it and use the API calls within the code that it writes |
   | Git | clone code repositories to use within the code base |
   | Npm | Install frontend software dependencies |
